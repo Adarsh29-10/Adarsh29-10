@@ -89,9 +89,8 @@ const adarsh = {
 | **Frontend** | **Backend** | **Database** | **Tools** |
 |:---:|:---:|:---:|:---:|
 | React.js | Node.js | MongoDB | Git |
-| Next.js | Express.js | Mongoose | VS Code |
-| Tailwind CSS | RESTful APIs | Redis | Postman |
-| HTML5/CSS3 | Authentication | SQL | Docker |
+| HTML5/CSS3 | Express.js | Mongoose | VS Code |
+| Tailwind CSS | RESTful APIs | SQL | Postman |
 
 </div>
 
@@ -159,10 +158,10 @@ const adarsh = {
 
 <table>
 <tr>
-<td width="33%" align="center">
+<td width="30%" >
 
 ### 🎭 **Creative Side**
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80">
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="80">
 
 - **Video Editing** & Post-production
 - **Visual Design** & UI/UX
@@ -170,10 +169,10 @@ const adarsh = {
 - **Brand Identity** development
 
 </td>
-<td width="33%" align="center">
+<td width="40%" >
 
 ### 💡 **Mindset**
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80">
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80">
 
 - **Growth-oriented** learning approach
 - **Quality over quantity** philosophy
@@ -181,7 +180,7 @@ const adarsh = {
 - **Problem-solving** through innovation
 
 </td>
-<td width="33%" align="center">
+<td width="30%" >
 
 ### 🌱 **Currently Exploring**
 <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b7423ec.gif" width="80">
@@ -206,7 +205,7 @@ const adarsh = {
 <a href="https://www.linkedin.com/in/adarsh-raghuvanshi-0488532b5">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5">
 </a>
-<a href="mailto:adarsh@example.com">
+<a href="mailto:adarsh.raghuvanshi29@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335">
 </a>
 <a href="#">
@@ -237,5 +236,5 @@ const adarsh = {
 ---
 
 <div align="center">
-<sub>🚀 Crafted with ❤️ by Adarsh Raghuvanshi | Last updated: 2025</sub>
+<sub>Last updated: 2025</sub>
 </div>
