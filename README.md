@@ -3,7 +3,7 @@
 <div align="center">
   
 <!-- Animated Header -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=false&width=900&height=120&lines=Hi+there!+I'm+Adarsh+👋;MERN+Stack+Developer+🚀;Building+Dreams+with+Code+💻" alt="Typing Animation"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=false&width=900&height=150&lines=Hi+there!+I'm+Adarsh+👋;MERN+Stack+Developer+🚀;Building+Dreams+with+Code+💻" alt="Typing Animation"/>
 
 <!-- Dynamic Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,8,17,27&height=200&section=header&text=Code%20•%20Create%20•%20Innovate&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Transforming%20Ideas%20into%20Digital%20Reality&descSize=18&descAlignY=55"/>
@@ -26,7 +26,12 @@
 
 ## 🚀 **About Me**
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="350">
+<div align="center">
+
+<!-- Desktop and Tablet View -->
+<table>
+<tr>
+<td width="65%" valign="top">
 
 ```javascript
 const adarsh = {
@@ -37,7 +42,7 @@ const adarsh = {
     
     currentFocus: [
         "MERN Stack Development",
-        "Modern Web Technologies",
+        "Modern Web Technologies", 
         "AI Integration",
         "Clean Code Architecture"
     ],
@@ -49,10 +54,21 @@ const adarsh = {
 
 ### 🎯 **What Drives Me**
 - 💡 **Passionate** about creating scalable web applications
-- 🛠️ **Focused** on clean, efficient, and maintainable code
+- 🛠️ **Focused** on clean, efficient, and maintainable code  
 - 🌱 **Always learning** new technologies and best practices
 - 🎨 **Creative** problem solver with an eye for design
 - 🚀 **Eager** to contribute to impactful projects
+
+</td>
+<td width="35%" align="center">
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="280">
+</td>
+</tr>
+</table>
+
+</div>
+
+
 
 ---
 
@@ -121,18 +137,18 @@ const adarsh = {
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Adarsh29-10&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Adarsh29-10&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff" width="48%">
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Adarsh29-10&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff" width="49%">
 </picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh29-10&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=ffffff">
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh29-10&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=ffffff" width="48%">
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh29-10&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=ffffff" width="49%">
 </picture>
 
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Adarsh29-10&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakNum=00D9FF&sideNums=00D9FF&currStreakLabel=00D9FF&sideLabels=ffffff&dates=ffffff" width="70%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Adarsh29-10&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakNum=00D9FF&sideNums=00D9FF&currStreakLabel=00D9FF&sideLabels=ffffff&dates=ffffff" width="85%"/>
 </div>
 
 ---
