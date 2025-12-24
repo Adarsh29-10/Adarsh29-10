@@ -57,22 +57,22 @@ const adarsh = {
 
 | Project | Description | Tech Stack | Links |
 |---------|-------------|------------|-------|
-| **🏠 EasyRenting** | Full-stack property management system with tenant tracking & payment processing | MERN + JWT + Cloudinary | [![GitHub](https://img.shields.io/badge/Code-black?style=flat-square&logo=github)](https://github.com/Adarsh29-10) |
-| **🎬 Creative Portfolio** | Video editing & visual design showcase featuring content creation work | Adobe Suite + Design Tools | [![Portfolio](https://img.shields.io/badge/View-00D9FF?style=flat-square&logo=vercel)](https://github.com/Adarsh29-10) |
+| **🏠 EasyRenting** | Full-stack property management system with tenant tracking & payment processing | MERN + JWT + Cloudinary | [![GitHub](https://img.shields.io/badge/Code-black?style=flat-square&logo=github)](https://github.com/Adarsh29-10/EasyRenting) |
+| **NoteLeech AI** | An AI powered structured notes generation chabot with help of raw notes | MERN + AI | [![GitHub](https://img.shields.io/badge/Code-black?style=flat-square&logo=github)](https://github.com/Adarsh29-10/NoteLeech-AI) |
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Insights
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Adarsh29-10&show_icons=true&theme=transparent" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Adarsh29-10&show_icons=true&theme=tokyonight&hide_border=true&title_color=00D9FF&icon_color=00D9FF" alt="GitHub Stats" />
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh29-10&layout=compact&theme=transparent" />
+<br/>
 
-<img width="80%" src="https://streak-stats.demolab.com?user=Adarsh29-10&theme=transparent" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Adarsh29-10&layout=compact&theme=tokyonight&hide_border=true&title_color=00D9FF" alt="Top Languages" />
 
 </div>
 
