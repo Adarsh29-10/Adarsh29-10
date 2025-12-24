@@ -68,10 +68,11 @@ const adarsh = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Adarsh29-10&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Adarsh29-10&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B" width="48%" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Adarsh29-10&show_icons=true&theme=transparent" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh29-10&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00D9FF" width="48%" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh29-10&layout=compact&theme=transparent" />
+
+<img width="80%" src="https://streak-stats.demolab.com?user=Adarsh29-10&theme=transparent" />
 
 </div>
 
