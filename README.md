@@ -10,7 +10,7 @@ B.Tech IT, IIST (2026) · Indore, India
 ## Skills
 
 **Languages** — JavaScript, TypeScript, Python, Java, C++, C  
-**Frontend** — React, Next.js, Tailwind CSS  
+**Frontend** — React, React Native, Next.js, Tailwind CSS  
 **Backend** — Node.js, Express, FastAPI  
 **Database** — MongoDB, PostgreSQL, SQL  
 **Security** — JWT, Auth0  
