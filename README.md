@@ -18,15 +18,9 @@ B.Tech IT, IIST (2026) · Indore, India
 
 ---
 
-## GitHub Activity
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Adarsh29-10&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
----
-
 ## Currently
 
-- Exploring AI and ML
+- Exploring Mobile Development and AI
 - Open to full-stack and product engineering roles
 
 ---
